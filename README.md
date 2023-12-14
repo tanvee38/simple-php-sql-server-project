@@ -1,2 +1,2 @@
 # simple-php-project
-simple-html-php-mysql-project
+simple-html-php-sql-server-project
